@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi 👋 I'm Mohammad Zaid Khursheed<br><br>🎓 BCA student at Integral University  <br>💻 Full-Stack Web Development enthusiast  <br>🚀 Building projects & improving every day<br><br>🛠 Tech Stack:<br>- HTML, CSS, JavaScript<br>- React.js, Next.js<br>- Node.js, Express.js<br>- Git & GitHub  <br><br>📚 What I'm doing:<br>- Creating full-stack projects<br>- Improving backend & API development<br>- Preparing for developer roles  <br><br>📌 Goal: To become a skilled Full-Stack Developer<br><br>📫 How to reach me: https://github.com/zaid24-maker<br><br><br><br>
 
 
